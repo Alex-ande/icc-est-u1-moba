@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        MetodoOrdenamiento mO = new MetodoOrdenamiento();
+    
+      // MetodoOrdenamiento mO = new MetodoOrdenamiento();
         //int [] arr = {5,8,9,3,0};
         //mO.sortBubbleAva(arr);
         //mO.printArreglo(arr);
